@@ -1,7 +1,7 @@
 # CLVR Implementation Project - Starter Code
 
 ## Reference
-The overall dataset and environment code, including ['sprites_datagen'](sprites_datagen) and ['sprites_env'](sprites_env), cloned from https://github.com/kpertsch/clvr_impl_starter.
+The overall dataset and environment code, including [sprites_datagen](sprites_datagen) and [sprites_env](sprites_env), cloned from https://github.com/kpertsch/clvr_impl_starter.
 
 ## Baselines
 - CNN
