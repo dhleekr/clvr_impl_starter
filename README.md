@@ -16,12 +16,12 @@ The overall dataset and environment code, including ['sprites_datagen'](sprites_
 - v2 (2 distractors)
 
 ## Example Commands
-To train a reward-induced representation, run:
-'''
-python reward_prediction.py
-'''
 
+To train a reward-induced representation, run:
+```
+python reward_prediction.py
+```
 For training a PPO agent using diverse baselines, run:
-'''
+```
 python main.py --mode {baseline name} --env_type {env type}
-'''
+```
